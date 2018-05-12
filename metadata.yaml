@@ -1,4 +1,8 @@
 _repo: The-Boys-Life-of-Lafayette_50232
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50232-h/images/cover.jpg
 creator:
   author:
     agent_name: Nicolay, Helen
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '715'
     url: http://www.gutenberg.org/2009/agents/715
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50232#The-Boys-Life-of-Lafayette
 gutenberg_issued: '2015-10-16'
 gutenberg_type: Text
 identifiers:
